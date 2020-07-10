@@ -1,0 +1,6 @@
+.mvn
+.idea
+application-oauth.properties
+
+# Project exclude paths
+/target/
